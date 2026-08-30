@@ -3,19 +3,19 @@
 ## 1. Project Overview
 
 ### Objective
-用Google的Gemini Omni Flash Preview分段生成一条约 60 秒的视频，并考察不同分镜之间的连续性。
+Use Google's Gemini Omni Flash Preview to generate a video of approximately 60 seconds in separate shots and evaluate continuity across those shots.
 
-由于preview暂时无法修改分辨率、帧速率，而且没有实装multi-shots、运镜技巧等高级功能，因而在本次实验中无法进行这些操作。本次实验我会通过文生图模型来
+The preview currently does not support custom resolution or frame rate, and advanced features such as multi-shot generation and explicit camera techniques are not yet available. This experiment therefore uses a text-to-image model to create explicit start and end keyframes for each shot before video generation.
 
-aspect ratio: auto
+Aspect ratio: auto
 
-thinking level: high
+Thinking level: high
 
 ---
 
 ## 2. Storyboard
 
-原始 8 个镜头表格
+See the complete eight-shot plan in [storyboard/storyboard.md](storyboard/storyboard.md).
 
 ---
 
@@ -50,7 +50,7 @@ Storyboard
 
 ### 4.1 Model Selection
 
-Keyframes are generated using a high-performing text-to-image model selected based on the Artificial Analysis Text-to-Image Leaderboard.
+Keyframes are generated using a high-performing text-to-image model selected based on the Artificial Analysis Text-to-Image Leaderboard (choose the most suitable high-performing model).
 
 Artificial Analysis evaluates image-generation models using blind pairwise human preference comparisons and Elo-based rankings.
 
@@ -65,11 +65,11 @@ Selection criteria:
 
 ### 4.2 Selected Model
 
-Model:
-Artificial Analysis Elo:
-Rank:
-Cost:
-Reason for selection:
+Model: GPT Image 2 (high)
+Artificial Analysis Elo: 1370
+Rank: 1
+Cost: ChatGPT Plus
+Reason for selection: Reachable and powerful
 
 ### 4.3 Keyframe Strategy
 
@@ -79,3 +79,27 @@ Each video shot contains:
 - End Frame
 
 The two frames define the desired spatial states of the shot, while the video model is responsible for generating the temporal transition between them.
+
+## 5. Prompt Design
+
+### 5.1 Keyframe Prompt
+
+Scene
+→ Character
+→ Composition
+→ Pose / State
+→ Camera
+→ Lighting
+→ Mood
+→ Style
+→ Continuity Constraints
+
+### 5.2 Motion Prompt
+
+Action
+→ Character Motion
+→ Camera Motion
+→ Environmental Motion
+→ Timing
+→ Mood
+→ Audio
