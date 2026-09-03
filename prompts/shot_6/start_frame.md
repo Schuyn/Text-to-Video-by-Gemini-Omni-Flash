@@ -2,31 +2,31 @@
 
 **Scene:**
 
-The same Chang'an City martial arts arena at sunset immediately after the reward presentation. The engraved stone platform, ancient wooden architecture, gray-tiled rooftops, dark blue banners, pagoda skyline, golden-orange sky, warm haze, and steady wind remain unchanged. The six floating reward objects are still present but their glow has begun to soften, signaling the transition from celebration to action.
+The same Chang'an City martial arts arena at sunset immediately after Gu Jingling's first three benefits in Shot 5. The engraved stone platform, ancient wooden architecture, gray-tiled rooftops, dark blue banners, pagoda skyline, golden-orange sky, warm haze, and steady wind remain unchanged. Exactly three floating rewards remain fully visible: the ornate returning-player treasure chest, golden experience emblem, and silver-violet exclusive crest. The reward presentation is continuing; none of these objects has begun to fade.
 
 **Character:**
 
-Long Taizi, Jian Xiake, and Gu Jingling retain their exact canonical faces, hairstyles, costumes, armor, proportions, and equipment. Long Taizi stands at frame left with his silver spear. Jian Xiake stands at center with his long sword fully sheathed in the blue-and-silver scabbard at his left hip. Gu Jingling stands at frame right in her purple-and-black outfit and silver-violet light armor.
+Long Taizi, Jian Xiake, and Gu Jingling retain their exact canonical faces, hairstyles, costumes, armor, proportions, and equipment. Long Taizi stands at frame left with his silver spear upright in his left hand. Jian Xiake stands at center with his long sword fully sheathed in the blue-and-silver scabbard at his left hip. Gu Jingling stands at frame right in her purple-and-black outfit and silver-violet light armor.
 
 **Composition:**
 
-Match the Shot 5 end frame: an eye-level medium-wide three-shot from approximately the knees upward, with Long Taizi left, Jian Xiake center, and Gu Jingling right. Keep all faces and the six dimming reward objects readable, with Jian Xiake becoming the emerging focal point.
+Match the revised Shot 5 end frame exactly: an eye-level medium-wide three-shot from approximately the knees upward, with Long Taizi left, Jian Xiake center, and Gu Jingling right. Keep all faces and the three reward objects in their established upper arc readable. Preserve the open space for Long Taizi's additional reveals, which have not appeared yet.
 
 **Pose / State:**
 
-Long Taizi finishes his outward presentation gesture and begins to bring his right hand back toward his spear. Gu Jingling still holds three fingers raised, her excited smile beginning to sharpen into anticipation. Jian Xiake's amused expression turns decisive; he lowers his chin slightly and moves his right hand toward the sword hilt while his left hand approaches the scabbard. His blade remains fully sheathed in this exact starting instant.
+Long Taizi holds his right hand slightly raised near his waist, palm up, poised to begin the outward presentation sweep; his mouth is closed in a knowing smile and his left hand controls the upright spear. Gu Jingling holds three fingers raised near shoulder height with an excited grin. Jian Xiake keeps the same raised brow and faint impressed smile as the Shot 5 end frame, with both hands relaxed and his sword fully sheathed. The sword draw and battle preparation have not begun.
 
 **Camera:**
 
-Eye-level medium-wide shot with the same stable 32–35 mm perspective, horizon, camera height, arena orientation, and character order as the Shot 5 end frame.
+Eye-level medium-wide shot with the same stable 35 mm perspective, horizon, camera height, arena orientation, and character order as the Shot 5 end frame.
 
 **Lighting:**
 
-Maintain the warm sunset and amber rim light while the reward glow begins to fade. Increase contrast slightly around Jian Xiake's face and sword hilt to prepare the heroic shift. Preserve natural skin tones, costume detail, and controlled reflections on silver armor and weapons.
+Match the Shot 5 end lighting exactly: warm sunset and amber rim light, restrained gold and violet-silver illumination from the three visible rewards, and subtle cyan accents from Long Taizi's existing equipment. Preserve natural skin tones, costume detail, and controlled reflections on silver armor and weapons. Do not fade the reward glow or introduce the stronger battle lighting yet.
 
 **Mood:**
 
-The final beat of celebration turning into decisive battle energy. Excitement tightens into focus as Jian Xiake prepares to act.
+Playful abundance and anticipation as Long Taizi is about to complete the reward offer. The turn toward battle will follow his line within the shot.
 
 **Style:**
 
@@ -34,4 +34,4 @@ Premium Chinese fantasy MMORPG cinematic CG, polished high-end 3D game-trailer a
 
 **Continuity Constraints:**
 
-Treat the Shot 5 end frame as the strict visual reference. Preserve all three identities, costumes, armor, weapons, left-to-right order, reward object designs and initial positions, arena geometry, sunset, wind, and camera orientation. Jian Xiake's sword must begin fully sheathed. The rewards may dim but must not abruptly change shape or placement. Do not add characters, duplicate weapons or rewards, add readable text, subtitles, logos, borders, watermarks, or game UI.
+Treat the revised three-reward Shot 5 end frame as the strict visual reference. Preserve all three identities, costumes, armor, weapons, poses, left-to-right order, reward object designs and positions, arena geometry, sunset, wind, lighting, and camera orientation. Jian Xiake's sword must begin fully sheathed, with his hands still relaxed. Exactly the chest, experience emblem, and exclusive crest are visible at full established brightness; the Summer Spirit orb, Rainbow Fruit, and gemstone cluster appear only during the motion. Do not add characters, duplicate weapons or rewards, add readable text, subtitles, logos, borders, watermarks, or game UI.

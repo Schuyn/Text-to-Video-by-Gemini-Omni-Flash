@@ -14,7 +14,7 @@ Create a perfectly centered, front-facing information hierarchy with generous sp
 
 **Pose / State:**
 
-No character pose. All logo and text elements are fully revealed, stationary, crisp, correctly spelled, evenly spaced, and ready for a final one-second hold.
+No character pose. All logo and text elements are fully revealed, stationary, crisp, correctly spelled, and evenly spaced. This complete layout is visible from 2.0 through 5.0 seconds of Shot 8, providing an uninterrupted three-second final hold without any text movement or fade-out.
 
 **Camera:**
 

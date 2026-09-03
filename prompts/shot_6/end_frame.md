@@ -14,7 +14,7 @@ Use a powerful low-angle medium-wide three-shot with Jian Xiake half a step forw
 
 **Pose / State:**
 
-Jian Xiake has completed the draw and holds the sword extended toward the distance, shoulders squared, eyes energized, and mouth closed after saying, “Then what are we waiting for?” Long Taizi lowers into an elegant ready stance with his spear angled upward and forward, calm determination replacing his earlier smile. Gu Jingling shifts into a compact agile stance with one foot back, hands raised, and a playful but focused grin; a thin violet aura curls around her fingers. The three share a final confident glance before facing forward together.
+Jian Xiake has completed the draw and holds the sword extended toward the distance, shoulders squared, eyes energized, and mouth closed after saying, “Then what are we waiting for?” Long Taizi holds an elegant ready stance with both hands controlling his spear angled upward and forward, calm determination replacing his earlier smile. Gu Jingling holds a compact agile stance with one foot back, hands raised, and a playful but focused grin; a thin violet aura curls around her fingers. Their brief confident exchange of glances is already complete: all three now face forward with bent knees and their weight poised to launch, matching the Shot 7 start state.
 
 **Camera:**
 

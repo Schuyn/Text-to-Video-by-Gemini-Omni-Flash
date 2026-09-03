@@ -1,34 +1,36 @@
 # Shot 6 — Motion Prompt
 
+**Duration:** 10 seconds. Do not exceed 10 seconds.
+
 **Action:**
 
-Create one continuous seven-second shot from the supplied reward-filled start frame to the supplied battle-ready end frame. The six reward objects fade away as Jian Xiake draws his sword in one sharp controlled motion, points it toward the distant horizon, and says, “Then what are we waiting for?” Long Taizi and Gu Jingling immediately shift into complementary battle stances. The trio exchanges a quick confident look, then faces forward together. No cuts.
+Create one continuous ten-second shot from the supplied three-reward start frame to the supplied battle-ready end frame. Long Taizi completes the offer with one right-hand presentation sweep and says, “Exchange Summer Spirit for limited rewards. Log in for Rainbow Fruit and gems!” Reveal the Summer Spirit orb, Rainbow Fruit, and gemstone cluster alongside the existing chest, experience emblem, and exclusive crest. Only after his line finishes, all six rewards dissolve as Jian Xiake draws his sword, points it toward the distant horizon, and says, “Then what are we waiting for?” Long Taizi and Gu Jingling shift into battle stances during the draw and response. End with the trio facing forward, ready to charge. No cuts and no overlapping dialogue.
 
 **Character Motion:**
 
-Jian Xiake closes his right hand around the hilt, braces the scabbard with his left, draws the blade cleanly, and extends it toward the upper-right distance without over-swinging. His ponytail, sleeves, tassel, and robe tails follow the acceleration naturally. He delivers the line with precise English lip synchronization, focused eyes, and decisive energy. Long Taizi rotates his spear from its relaxed position into a forward diagonal guard and lowers his center of gravity. Gu Jingling drops into a compact agile stance, raises her hands, and forms a restrained violet aura around her fingers. All three exchange a brief eye movement, then lock forward. Preserve identity, anatomy, costume, and weapon integrity.
+Long Taizi begins with his right palm poised near his waist and his spear upright in his left hand. He makes one elegant outward sweep, then holds his palm open while speaking with precise English lip sync and gentle pride. Gu Jingling lowers her counting hand naturally; Jian Xiake watches with an impressed smile and keeps his sword sheathed until Long Taizi finishes. Jian Xiake then closes his right hand around the hilt, braces the scabbard with his left, draws the blade cleanly, takes half a step forward, and extends the sword toward the upper-right distance without over-swinging. He delivers his response with accurate lip sync and decisive energy. At the same time, Long Taizi returns his right hand to the spear and lowers into a two-handed forward diagonal guard; Gu Jingling drops into a compact agile stance with a restrained violet aura around her raised hands. Finish with a brief confident glance between companions, then all eyes forward. Hair, fabric, and tassels follow their movements naturally. Preserve identity, anatomy, costume, and weapon integrity.
 
 **Camera Motion:**
 
-Begin in the exact Shot 5 end composition. Make a quick but smooth push toward Jian Xiake as his hand reaches the hilt, accent the sword draw with a controlled short forward surge, then ease slightly wider and lower to reveal the completed three-character battle formation. Finish at the supplied low-angle 32 mm end frame. Keep the horizon stable; do not cut, whip-pan, roll, shake excessively, or crop the weapons.
+Begin in the exact Shot 5 end composition at eye level with a 35 mm perspective. Keep a nearly locked, balanced three-shot through Long Taizi's line so the speaker and each reward remain readable as the display grows from three objects to six. Once the line finishes and Jian Xiake reaches for the hilt, make one smooth descending push and ease the perspective toward 32 mm, keeping all three heroes framed. Settle at the supplied low-angle battle composition while Jian Xiake gives his response. Keep the horizon stable and preserve the arena axis; do not cut, whip-pan, orbit, roll, shake, or crop the weapons.
 
 **Environmental Motion:**
 
-Fade the six reward objects in place into small gold, violet, and cyan particles during the first two seconds; do not morph or eject them. Strengthen the established wind through hair, ribbons, sleeves, robe panels, banners, and spear tassel as battle energy rises. Let a restrained blue-white streak follow the sword draw, a cyan glint travel along the spear, and a compact violet curl form around Gu Jingling's hands. Keep the arena, buildings, sun, shadows, and skyline fixed.
+Keep the three existing reward objects hovering in their exact established positions at full brightness during the presentation. Materialize a cyan-gold Summer Spirit orb as Long Taizi mentions exchanging Summer Spirit for limited rewards; reveal one iridescent Rainbow Fruit and one compact cluster of multicolored gemstones as he names the login rewards. Place the three additions in the available space around the trio without covering faces, hands, or weapons. Count the gemstone cluster as one reward group, bringing the display to exactly six. Retain each shape until its dissolve; do not morph the orb into a different object. After Long Taizi finishes, dissolve all six rewards in place into small gold, violet, and cyan particles during the sword draw, with every solid reward gone by 7.1 seconds. Strengthen the established wind as battle energy rises, add a restrained blue-white streak to the drawn sword, a cyan glint along the spear, and a compact violet curl around Gu Jingling's hands. Keep the arena, buildings, sun, shadows, and skyline fixed. No interface panels or readable labels.
 
 **Timing:**
 
-- **0.0–0.8 seconds:** Match the Shot 5 end frame. Reward glow begins to dim as Jian Xiake's expression turns decisive.
-- **0.8–2.3 seconds:** Jian Xiake grips and draws the sword; the camera pushes in, the rewards dissolve into controlled particles, and the music rises sharply.
-- **2.3–3.8 seconds:** He points the blade toward the distance and says, “Then what are we waiting for?” with precise lip sync.
-- **3.8–5.6 seconds:** Long Taizi rotates into spear guard and Gu Jingling drops into her violet-tinged agile stance as the camera eases wider and lower.
-- **5.6–6.3 seconds:** The three exchange one quick confident glance.
-- **6.3–7.0 seconds:** All face forward and hold the supplied heroic battle composition for Shot 7.
+- **0.0–0.4 seconds:** Match the revised Shot 5 end frame exactly: three rewards visible, Long Taizi's right palm poised, Jian Xiake's sword sheathed.
+- **0.4–2.9 seconds:** Long Taizi sweeps his right hand outward and says, “Exchange Summer Spirit for limited rewards.” Reveal the cyan-gold Summer Spirit orb; keep the first three rewards steady.
+- **2.9–5.6 seconds:** He continues, “Log in for Rainbow Fruit and gems!” Reveal the fruit on “Rainbow Fruit” and the gemstone cluster on “gems,” bringing the display to six. Finish his line before the action shift.
+- **5.6–7.1 seconds:** All six rewards dissolve in place as Jian Xiake grips and draws his sword and steps half a pace forward. Long Taizi brings his right hand onto the spear, Gu Jingling lowers into her agile stance, and the camera descends smoothly. Clear every solid reward by the end of this interval.
+- **7.1–9.3 seconds:** Jian Xiake points his sword toward the upper-right distance and says, “Then what are we waiting for?” Long Taizi and Gu Jingling complete their guards during his response. Settle the low-angle camera without adding a separate posing beat.
+- **9.3–10.0 seconds:** The companions exchange a quick confident glance, then face forward and hold the supplied battle-ready end composition for Shot 7. No reward objects remain.
 
 **Mood:**
 
-Fast-rising, heroic, focused, and exhilarating. Convert the reward excitement into a clean surge of team battle energy.
+Generous and lightly proud during the final reward offer, then heroic, focused, and exhilarating. Convert the completed reward presentation into a clean surge of team battle energy without rushing either speaker.
 
 **Audio:**
 
-Drive the Chinese-fantasy orchestral music upward with stronger percussion and strings. Add a sharp clean sword draw, a brief metallic ring, a controlled blade whoosh, spear movement, light armor and cloth motion, subtle magical energy tones, and the continuing wind. Jian Xiake says firmly in English, “Then what are we waiting for?” Keep the line clear and precisely synchronized; Long Taizi and Gu Jingling remain silent.
+Continue the Chinese-fantasy orchestral bed and wind from Shot 5. Long Taizi says clearly in English with warm confidence, “Exchange Summer Spirit for limited rewards. Log in for Rainbow Fruit and gems!” Add restrained chimes for his three reveals and keep music beneath his voice. After his final word, lift the percussion and strings under a clean sword draw, brief metallic ring, spear movement, and soft reward-dissolve shimmer. Jian Xiake then says firmly in English, “Then what are we waiting for?” Keep both lines sequential, clearly articulated, and precisely synchronized; do not speed up the voices or overlap them. Gu Jingling remains silent. Add light armor, fabric, and battle-energy sounds without masking the dialogue; no narration or crowd noise.
